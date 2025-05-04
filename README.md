@@ -10,7 +10,8 @@ Currently I only study and create some automations in my current job. Actively p
 *   ✉️  You can contact me at [akemiandkyh@gmail.com](mailto:akemiandkyh@gmail.com)
 *   🧠  I'm learning React and AWS, searching for CP certificate
 *   🤝  I'm open to collaborating on my instagram
-*   ⚡  I'm secretly a LoL player, Kyh#0777 (2 of 3 World accounts with this nickname is mine, BR and NA)<a href="https://www.twitch.tv/yung_kyh" target="_blank" rel="noreferrer"><img
+*   ⚡  I'm secretly a LoL player, Kyh#0777 (2 of 3 World accounts with this nickname is mine, BR and NA)
+*   <a href="https://www.twitch.tv/yung_kyh" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitch/status/yung_kyh?logo=twitchsx&style=for-the-badge&color=facc15&labelColor=000000&label=TWITCH+STATUS" /></a>
 ### Skills 
 <p align="left">
@@ -39,7 +40,7 @@ Currently I only study and create some automations in my current job. Actively p
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
                     </picture>
                     </a>
-                      <a href="https://www.linkedin.com/in/danilo-iglesias-da-silva" target="_blank" rel="noreferrer">
+                      <a href="https://www.linkedin.com/in/danilo-iglesias-da-silva](https://www.linkedin.com/in/danilo-iglesias-da-silva-6554a3299" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
